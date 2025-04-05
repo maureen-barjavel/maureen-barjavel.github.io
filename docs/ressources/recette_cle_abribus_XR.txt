@@ -1,0 +1,33 @@
+Salut, 
+
+Pour les références des clés, il existe ce fichier : https://j166kc.github.io/keys/
+
+Et pour savoir comment fabriquer la nouvelle clé d'abris-bus, voici la recette : 
+
+CLE ANTIPUB ABRIBUS PARIS
+
+**Coût: ~ 1.80 €**
+
+**Matériel:**
+
+*   Clous 80mm diam 3.4mm - ?.?? € (tête plate ok) => achetés en vrac chez Leroy Merlin
+*   Entretoises M4 x 40mm - 1.30 € (possible aussi M4 x 50mm) => [M4 x 40mm](https://www.amazon.fr/dp/B017AQCYYG?ref_=pe_27091421_487358211_302_E_DDE_dt_1) => [M4 x 50mm](https://www.amazon.fr/dp/B016B2F85M?ref_=pe_27091421_487358211_302_E_DDE_dt_1)
+*   Vis sans tête A2 - 0.05 € => chez [Vis Express](https://www.vis-express.fr/fr/vis-metaux-inox-a2-sans-tete-six-pans-creux-sthc-hexagonal-creux-bout-pointeau-din-914-din-914-iso-4027/36616-956797-vis-metaux-inox-a2-sans-tete-six-pans-creux-sthc-4x4-bout-pointeau-3663072163768.html)
+
+**Outils nécessaires**
+
+*   perceuse
+*   mèche 3.5mm
+*   pince coupante
+*   lime
+*   clé allen de 2
+
+**Fabrication**
+
+*   Percer l'entretoise à environ 6mm de l'une de ses extrémités
+*   Couper l’extrémité pointue du clou (plus facile de ne couper qu'au milieu de la partie pointue plutôt que dans la pleine épaisseur)
+*   Limer la partie coupée pour l'arrondir et l'adoucir
+*   Planter le clou dans le trou de l'entretoise
+*   Visser la vis sans tête jusqu'en butée contre le clou. Si le trou est trop au bord de l’entretoise, il est possible que la vis sans tête ne se prenne pas dans le pas de vis. Il est alors possible de visser la vis sans tête depuis l'autre extrémité de l’entretoise.
+
+Pour travailler en série, c'est pratique de percer un trou dans un tasseau pour y insérer l'entretoise, pas trop profond pour que l'entretoise dépasse un peu, même en butée. On peut alors maintenir le tasseau dans un étau et commencer à percer et planter les clous en série. Une fois en rythme de croisière, il me semble qu'on peut en fabriquer entre 30 et 50 en une heure de travail.
